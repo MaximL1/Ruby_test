@@ -1,2 +1,2 @@
 # Ruby_test
-test
+test_we is Main file
